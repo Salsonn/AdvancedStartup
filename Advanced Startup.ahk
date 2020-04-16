@@ -138,6 +138,7 @@ Loop, %path%\*.*
 }
 return
 
+GuiClose:
 GuiEscape:
     ExitApp
 
